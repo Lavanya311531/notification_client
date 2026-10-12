@@ -1,6 +1,6 @@
 module notification_client
 
-go 1.26.6
+go 1.26
 
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus v1.10.0
